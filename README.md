@@ -8,3 +8,4 @@ ABC’s promotions are shared across various channels including email, notificat
 The data available in this problem contains the following information, including the details of a sample of campaigns and coupons used in previous campaigns -
 
 User Demographic Details Campaign and coupon Details Product details Previous transactions Based on previous transaction & performance data from the last 18 campaigns, predict the probability for the next 10 campaigns in the test set for each coupon and customer combination, whether the customer will redeem the coupon or not?
+<img src='info.png'>
